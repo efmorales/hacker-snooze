@@ -1,0 +1,16 @@
+.grandparent{
+    margin-bottom: 20px;
+    background-color: rgb(158, 219, 248);
+}
+
+.navbar{
+    background-color: blue;
+}
+
+.navbar-brand{
+    font-size: 30px;
+}
+
+.invisible{
+    display: none;
+}
